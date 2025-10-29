@@ -1,0 +1,15 @@
+title: tottori-rails
+
+lang: ja
+
+timezone: Asia/Tokyo
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+
+github_username: tottori-rails
+
+repository: tottori-rails/tottori-rails.github.io
