@@ -10,6 +10,8 @@ exclude:
   - README.md
   - vendor/
 
+url: https://tottori-rails.github.io
+
 github_username: tottori-rails
 
 repository: tottori-rails/tottori-rails.github.io
