@@ -9,3 +9,5 @@
 
 * [connpass](https://tottori-rails.connpass.com/)
 * [GitHub](https://github.com/tottori-rails)
+* [Cosence](https://scrapbox.io/tottori-rails/)
+  * [Invite link](https://scrapbox.io/projects/tottori-rails/invitations/50a0296cc59867c20e80d6fcce86612e)
